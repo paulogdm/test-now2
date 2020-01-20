@@ -1,1 +1,3 @@
-module.exports = (req,res) => {res.end('aaa')}
+module.exports = (req,res) => {
+	res.end('test')
+}
